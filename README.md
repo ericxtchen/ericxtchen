@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric Xiantao Chen</h1>
 <h3 align="center">Full Stack + AI/ML Developer from Stony Brook University</h3>
 
-- 🔭 I’m currently working on [AI-ScrumBot](https://github.com/ericxtchen/Complete-AI-ScrumBot)
+- 🔭 I’m currently working on [LiveLog-AI](https://github.com/ericxtchen/LiveLog)
 
 - 📫 How to reach me **ericxchen123@gmail.com**
 
