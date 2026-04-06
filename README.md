@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on [LiveLog-AI](https://github.com/ericxtchen/LiveLog)
 
-- 📫 How to reach me **ericxchen123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
